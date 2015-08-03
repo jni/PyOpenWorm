@@ -1,2 +1,3 @@
 recursive-include OpenWormData *
+recursive-include PyOpenWorm *
 include post_install.py
